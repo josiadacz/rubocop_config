@@ -1,0 +1,37 @@
+Metrics/LineLength:
+  Max: 180
+
+Metrics/ClassLength:
+  Max: 180
+
+Metrics/AbcSize:
+  Max: 25
+
+Metrics/MethodLength:
+  CountComments: false
+  Max: 16
+
+Metrics/CyclomaticComplexity:
+  Max: 7
+
+Style/SpaceInsideHashLiteralBraces:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Rails/HasAndBelongsToMany:
+  Enabled: false
+
+RSpec/DescribeClass:
+  Enabled: false
+
+Style/ClassAndModuleChildren:
+  Enabled: false
+
+Rails:
+  Enabled: true
+
+# @TODO wlaczyc przy nowej wersji rubocopa
+RSpec/FilePath:
+  Enabled: false
