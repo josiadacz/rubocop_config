@@ -23,15 +23,8 @@ Style/Documentation:
 Rails/HasAndBelongsToMany:
   Enabled: false
 
-# RSpec/DescribeClass:
-#   Enabled: false
-
 Style/ClassAndModuleChildren:
   Enabled: false
 
 Rails:
   Enabled: true
-
-# # @TODO wlaczyc przy nowej wersji rubocopa
-# RSpec/FilePath:
-#   Enabled: false
