@@ -23,8 +23,8 @@ Style/Documentation:
 Rails/HasAndBelongsToMany:
   Enabled: false
 
-RSpec/DescribeClass:
-  Enabled: false
+# RSpec/DescribeClass:
+#   Enabled: false
 
 Style/ClassAndModuleChildren:
   Enabled: false
@@ -32,6 +32,6 @@ Style/ClassAndModuleChildren:
 Rails:
   Enabled: true
 
-# @TODO wlaczyc przy nowej wersji rubocopa
-RSpec/FilePath:
-  Enabled: false
+# # @TODO wlaczyc przy nowej wersji rubocopa
+# RSpec/FilePath:
+#   Enabled: false
